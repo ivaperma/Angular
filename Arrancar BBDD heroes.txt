@@ -1,0 +1,4 @@
+Mediante Cmd cambiamos a 05-heroes-server
+Levantamos la base de datos con el comando json-server --watch db.json
+
+Y ya abrimos el localhost con ng serve -o en VSC
